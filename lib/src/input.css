@@ -1,0 +1,12 @@
+@import url(../../public/buttons/buttons.css);
+@import url(../../public/dropdown/dropdown.css);
+@import url(../../public/card/card.css);
+@import url(../../public/gallery/gallery.css);
+@import url(../../public/hero/hero.css);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+

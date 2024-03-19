@@ -1,0 +1,14 @@
+@layer components {
+    .gallery-container{
+        @apply  columns-1 sm:columns-2 md:columns-3 lg:columns-4 space-y-3 p-3
+    }
+
+    .gallery-container .gallery-item {
+        @apply hover:!scale-90 transition rounded overflow-hidden cursor-pointer
+    }
+
+
+
+
+
+}
